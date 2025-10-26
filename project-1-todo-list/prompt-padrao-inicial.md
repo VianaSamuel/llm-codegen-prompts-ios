@@ -1,0 +1,3 @@
+## Prompt Utilizado
+```txt
+Você é um especialista em desenvolvimento iOS. Crie um prompt que possa ser usado para gerar um aplicativo iOS em Swift que gerencie uma lista de tarefas simples, permitindo cadastro, listagem e exclusão de itens. O prompt deve instruir o modelo a produzir código funcional, legível e organizado, seguindo boas práticas de programação em Swift e utilizando armazenamento local em cache. Mantenha todo o prompt em uma única linha contínua, sem quebras de linha, e inclua todas as instruções necessárias para gerar o aplicativo corretamente.

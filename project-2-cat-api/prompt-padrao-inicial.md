@@ -1,0 +1,3 @@
+## Prompt Utilizado
+```txt
+Você é um especialista em desenvolvimento iOS. Crie um prompt que possa ser usado para gerar um aplicativo iOS em Swift que consuma dados da API pública The Cat API (https://thecatapi.com/), exibindo imagens e informações relacionadas a gatos. O prompt deve instruir o modelo a produzir código funcional, legível e organizado, seguindo boas práticas de programação em Swift e com arquitetura facilmente adaptável. Mantenha todo o prompt em uma única linha contínua, sem quebras de linha, e inclua todas as instruções necessárias para gerar o aplicativo corretamente.

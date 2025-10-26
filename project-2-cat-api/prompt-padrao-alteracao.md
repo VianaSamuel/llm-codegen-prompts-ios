@@ -1,0 +1,3 @@
+## Prompt Utilizado
+```txt
+Você é um especialista em desenvolvimento iOS. Crie um prompt que possa ser usado para modificar um aplicativo iOS previamente gerado que consome dados da The Cat API (https://thecatapi.com/). O prompt deve instruir o modelo a alterar a arquitetura do projeto de MVVM para VIPER, mantendo a consistência, funcionalidade e clareza do código existente, sem alterar a lógica de negócios nem os dados da API. Mantenha todo o prompt em uma única linha contínua, sem quebras de linha, e inclua todas as instruções necessárias para gerar o aplicativo corretamente.
