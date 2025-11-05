@@ -1,3 +1,3 @@
 ## Prompt Utilizado
-```txt
+
 Você é um especialista em desenvolvimento iOS. Crie um prompt que possa ser usado para modificar um aplicativo iOS de lista de tarefas previamente gerado. O prompt deve instruir o modelo a substituir o armazenamento local por uma camada de abstração preparada para integração futura com armazenamento em nuvem, mantendo a consistência, clareza e funcionalidade do código existente, sem implementar o serviço remoto. Mantenha todo o prompt em uma única linha contínua, sem quebras de linha, e inclua todas as instruções necessárias para gerar o aplicativo corretamente.
