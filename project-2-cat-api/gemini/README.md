@@ -16,7 +16,7 @@ Crie um aplicativo iOS completo em Swift para consumir e exibir dados da API pú
 
 Nenhum erro de compilação foi registrado para esta versão.
 
-### d) Evidências
+### d) Evidências:
 
 <img src="docs/assets/CatAPI-Gemini%20-%201.PNG" width="300" alt="Evidência 1 (App inicial)">
 
@@ -36,7 +36,7 @@ Modifique um aplicativo iOS existente em Swift que consome a API The Cat API, al
 
 Nenhum erro de compilação foi registrado para esta versão.
 
-### d) Evidências
+### d) Evidências:
 
 <img src="docs/assets/CatAPI-Gemini%20-%203.PNG" width="300" alt="Evidência 3 (App modificado)">
 

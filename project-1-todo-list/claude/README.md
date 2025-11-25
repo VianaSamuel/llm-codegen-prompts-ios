@@ -12,7 +12,11 @@ Você é um especialista em desenvolvimento iOS. Crie um prompt que possa ser us
 
 Crie um aplicativo iOS completo em Swift para gerenciamento de lista de tarefas com as seguintes especificações: desenvolva usando UIKit com arquitetura MVC, implemente uma estrutura Task com propriedades id (UUID), title (String), description (String opcional), isCompleted (Bool) e createdAt (Date), crie um TaskManager como classe singleton para gerenciar operações CRUD usando UserDefaults para persistência local com métodos addTask, getTasks, updateTask, deleteTask e toggleTaskCompletion, desenvolva uma TaskTableViewCell customizada com labels para título e descrição, checkbox para status de conclusão e botão de exclusão, implemente TaskListViewController como controller principal com UITableView, barra de navegação com botão "+" para adicionar tarefas, funcionalidade de swipe-to-delete, pull-to-refresh e segues para tela de detalhes, crie AddEditTaskViewController para cadastro e edição com UITextField para título, UITextView para descrição, UISwitch para status de conclusão, validação de campos obrigatórios e botões salvar/cancelar, implemente TaskDetailViewController para visualização completa da tarefa com opções de editar e excluir, configure Auto Layout programaticamente ou via Storyboard para suportar diferentes tamanhos de tela, adicione tratamento de erros com alerts informativos, implemente animações suaves para transições entre telas e atualizações da lista, use delegates e protocols adequadamente para comunicação entre view controllers, aplique princípios de Clean Code com nomes descritivos, comentários explicativos e separação de responsabilidades, configure o AppDelegate e SceneDelegate corretamente, adicione ícone de aplicativo e Launch Screen básicos, implemente funcionalidades extras como busca de tarefas, filtros por status (todas/pendentes/concluídas), ordenação por data de criação, contador de tarefas pendentes na navigation bar, suporte a modo escuro, e garanta que o código seja totalmente funcional, bem estruturado, comentado e siga as melhores práticas de desenvolvimento iOS com Swift, incluindo tratamento adequado de memory management, thread safety para operações de persistência e experiência de usuário fluida e intuitiva.
 
-### c) Evidências
+### c) Erros durante a compilação:
+
+Nenhum erro de compilação foi registrado para esta versão.
+
+### d) Evidências:
 
 <img src="docs/assets/ToDoApp-Claude%20-%201.PNG" width="300" alt="Evidência 1">
 
@@ -38,6 +42,6 @@ Modifique o aplicativo iOS de lista de tarefas existente em Swift substituindo o
 
 <img src="docs/assets/ToDoApp-Claude%20Modified-Erro-2.png" width="450" alt="Erro 2">
 
-### d) Evidências
+### d) Evidências:
 
 <img src="docs/assets/ToDoApp-Claude%20-%205.PNG" width="300" alt="Evidência 5">

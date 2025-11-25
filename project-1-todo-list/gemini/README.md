@@ -12,7 +12,11 @@ Você é um especialista em desenvolvimento iOS. Crie um prompt que possa ser us
 
 Crie um aplicativo iOS completo em Swift para gerenciamento de lista de tarefas. O aplicativo deve permitir ao usuário: adicionar novas tarefas (com um título), visualizar a lista de todas as tarefas cadastradas e excluir tarefas individualmente. O código deve ser funcional e legível, aderindo às boas práticas de programação em Swift, como a utilização de arquitetura de código clara (ex: MVC, MVVM) e nomes de variáveis e funções descritivos. Para persistência de dados, utilize armazenamento local em cache (como UserDefaults ou um arquivo local) em vez de um banco de dados. O projeto deve incluir uma interface de usuário simples e funcional para interagir com a lista. O prompt deve instruir o modelo a gerar todo o código necessário em um único bloco, começando com a estrutura do projeto e seguindo com cada arquivo de código, com comentários claros explicando as partes principais. O código gerado deve ser auto-suficiente e pronto para ser compilado e executado em um projeto Xcode.
 
-### c) Evidências
+### c) Erros durante a compilação:
+
+Nenhum erro de compilação foi registrado para esta versão.
+
+### d) Evidências:
 
 <img src="docs/assets/ToDoApp-Gemini%20-%201.PNG" width="300" alt="Evidência 1">
 
@@ -30,7 +34,11 @@ Você é um especialista em desenvolvimento iOS. Crie um prompt que possa ser us
 
 Modifique um aplicativo iOS de lista de tarefas em Swift existente para substituir o armazenamento local por uma camada de abstração de dados. O objetivo é preparar a arquitetura para uma futura integração com armazenamento em nuvem, sem implementar o serviço remoto neste momento. O prompt deve instruir o modelo a: 1) Criar um novo protocolo, como TaskRepository, que defina as operações de CRUD (create, read, update, delete). 2) Criar uma classe de implementação para este protocolo, como LocalTaskRepository, que encapsule a lógica de armazenamento local (UserDefaults ou arquivo). 3) Atualizar a camada de ViewModel (ou a camada de lógica de negócios equivalente) para usar o novo protocolo em vez de interagir diretamente com o armazenamento local, injetando a dependência de LocalTaskRepository. 4) Garantir que o código continue funcional e legível, seguindo as boas práticas de programação em Swift (ex: Injeção de Dependência, Princípio de Inversão de Dependência) e mantendo a interface de usuário existente inalterada. 5) O prompt deve instruir o modelo a gerar todo o código modificado em um único bloco, com comentários claros explicando as mudanças e a nova arquitetura, tornando o código auto-suficiente e pronto para ser compilado e executado em um projeto Xcode.
 
-### c) Evidências
+### c) Erros durante a compilação:
+
+Nenhum erro de compilação foi registrado para esta versão.
+
+### d) Evidências:
 
 <img src="docs/assets/ToDoApp-Gemini%20-%204.PNG" width="300" alt="Evidência 4">
 

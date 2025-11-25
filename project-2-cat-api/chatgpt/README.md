@@ -16,7 +16,7 @@ Crie um aplicativo iOS completo em Swift que consuma dados da API pública The C
 
 <img src="docs/assets/CatAPI-GPT%20Erro-1.png" width="450" alt="Erro 1">
 
-### d) Evidências
+### d) Evidências:
 
 <img src="docs/assets/CatAPI-GPT%20-%201.PNG" width="300" alt="Evidência 1">
 
@@ -36,7 +36,7 @@ Crie uma versão modificada de um aplicativo iOS previamente gerado em Swift que
 
 <img src="docs/assets/CatAPI-GPT%20Modified-Erro-1.png" width="450" alt="Erro 2">
 
-### d) Evidências
+### d) Evidências:
 
 <img src="docs/assets/CatAPI-GPT%20-%203.PNG" width="300" alt="Evidência 3">
 
