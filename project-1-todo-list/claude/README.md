@@ -42,6 +42,8 @@ Modifique o aplicativo iOS de lista de tarefas existente em Swift substituindo o
 
 <img src="docs/assets/ToDoApp-Claude%20Modified-Erro-2.png" width="450" alt="Erro 2">
 
+<img src="docs/assets/ToDoApp-Claude%20Modified-Erro-3.png" width="450" alt="Erro 3">
+
 ### d) Evidências:
 
 <img src="docs/assets/ToDoApp-Claude%20-%205.PNG" width="300" alt="Evidência 5">
